@@ -1,0 +1,11 @@
+{
+	"app": {
+		"TITLE": "Queue Manager",
+		"LANGUAGE": "Language",
+		"API_ERROR": "Connection problems, contact your site administrator",
+		"common": {
+			"NOT_CORRECT_URL": "URL is not correct",
+			"CORRECT_URL": "ip/counter/id of the screen/column(row)"
+		}
+	}
+}

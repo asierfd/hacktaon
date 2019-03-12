@@ -1,0 +1,54 @@
+{
+  "name": "queue-manager",
+  "version": "0.0.1",
+  "description": "Angular1 App Starter with Gulp, Pug, Stylus, Yaml, i18n, Satellizer and more...",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudappi/queue-manager-front-screen.git"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "devDependencies": {
+    "browser-sync": "~2.15.0",
+    "browser-sync-spa": "~1.0.3",
+    "del": "~2.2.2",
+    "eslint-loader": "~1.5.0",
+    "estraverse": "~4.2.0",
+    "gulp": "~3.9.0",
+    "gulp-angular-templatecache": "~2.0.0",
+    "gulp-autoprefixer": "~3.1.1",
+    "gulp-consolidate": "~0.2.0",
+    "gulp-cssnano": "~2.1.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-eslint": "~3.0.1",
+    "gulp-filter": "~3.0.1",
+    "gulp-flatten": "~0.3.1",
+    "gulp-htmlmin": "~2.0.0",
+    "gulp-inject": "~4.1.0",
+    "gulp-load-plugins": "~1.2.4",
+    "gulp-merge-json": "^0.6.0",
+    "gulp-ng-config": "^1.3.1",
+    "gulp-ng-constant": "^2.0.0-2",
+    "gulp-protractor": "~3.0.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-replace": "~0.5.4",
+    "gulp-rev": "~7.1.2",
+    "gulp-rev-replace": "~0.4.2",
+    "gulp-size": "~2.1.0",
+    "gulp-sourcemaps": "~1.6.0",
+    "gulp-stylus": "~2.5.0",
+    "gulp-uglify": "~2.0.0",
+    "gulp-useref": "~3.1.2",
+    "gulp-util": "~3.0.6",
+    "gulp-yaml": "^1.0.1",
+    "uglify-save-license": "~0.4.1",
+    "webpack-stream": "~2.1.0",
+    "wiredep": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+bower_components/
+coverage/
+.sass-cache/
+.idea/
+nbproject/
+.tmp/
+dist/
+src/app/env.module.js
+src/config/env/
+
+
